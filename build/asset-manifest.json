@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KKEMFrontEnd/static/css/main.073c9b0a.css",
+    "main.js": "/KKEMFrontEnd/static/js/main.696ae93b.js",
+    "static/js/787.7ae60924.chunk.js": "/KKEMFrontEnd/static/js/787.7ae60924.chunk.js",
+    "index.html": "/KKEMFrontEnd/index.html",
+    "main.073c9b0a.css.map": "/KKEMFrontEnd/static/css/main.073c9b0a.css.map",
+    "main.696ae93b.js.map": "/KKEMFrontEnd/static/js/main.696ae93b.js.map",
+    "787.7ae60924.chunk.js.map": "/KKEMFrontEnd/static/js/787.7ae60924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.696ae93b.js"
+  ]
+}
